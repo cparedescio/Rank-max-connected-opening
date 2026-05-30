@@ -10,6 +10,3 @@ Contact by email:
 mendijor@uaq.mx
 cparedes@cio.mx
 israel.sm@lapaz.tecnm.mx
-
-video
-<a href="./video_demo.mp4">▶ Ver video</a>
